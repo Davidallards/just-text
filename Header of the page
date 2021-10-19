@@ -1,0 +1,14 @@
+<div class="fm-head">
+        <header class="fm-head-container">
+            <div class="fm-head-logo"><a href="/"><img src="/img/FitMyMoney.svg" alt="FitMyMoney" width="200" height="30"></a></div>
+            <div id="fmm-header-toggle">
+                <div class="one"></div>
+                <div class="two"></div>
+                <div class="three"></div>
+            </div>
+            <nav role="navigation" class="fm-head-nav">
+                 <div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://fitmymoney.com/about-us/">About Us</a></li>
+</ul></div> 
+            </nav>
+        </header>
+    </div>
